@@ -10,7 +10,7 @@
 ***
 
 
-# Abstract:<a id="abstract"></a>
+## Abstract:<a id="abstract"></a>
 
 The **complexity** of knative eventing coupled with technical documentation, creates significant challenges for new users during the onboarding process. This user research project purposes a multi-pronged approach to identify these barriers and develop actionable recommendations to improve the **user experience** and promote sustained engagement within the knative eventing community. Through interviews with **new**, **current**, and **past users**, along with scenario-based activities and document reviews, the project aims to gain a comprehensive understanding of user pain points. The ultimate goal is to produce a **report** detailing the end-user journey and propose concrete steps, such as enhanced onboarding content, to streamline the process and foster a more welcoming environment for new knative eventing adopters.
 
@@ -49,83 +49,87 @@ This user research project will leverage a combination of qualitative and quanti
 
    - Past users who may have encountered difficulties and discontinued use.
 
- In-depth interviews with a diverse group of participants will allow us to explore their experience in detail. Open-ended question will encourage them to share their thoughts, feelings, and specific challenges encountered during onboarding
+   In-depth interviews with a diverse group of participants will allow us to explore their experience in detail. Open-ended question will encourage them to share their thoughts, feelings, and specific challenges encountered during 
+   onboarding.
+   
 
--  **Why:** allows for in-depth exploration of user experiences, challenges, and suggestions beyond pre-defined questions. Participants can elaborate on their thoughts and feelings.
+    -  **Why:** allows for in-depth exploration of user experiences, challenges, and suggestions beyond pre-defined questions. Participants can elaborate on their thoughts and feelings.
 
-- **Suggested tools:** Zoom, Google Meet for interviews with predetermined questions.
+    -  **Suggested tools:** Zoom, Google Meet for interviews with predetermined questions.
+  
+
 
 2. **Scenario-based Activities:** During interviews, we can present participants with common onboarding tasks and ask them to think aloud as they navigate the process. This will help us identify specific pain points and areas for improvement within the documentation or user interface
 
-- **Why:** Reveals pain points and areas for improvement by observing users navigate common tasks while verbalizing their thought process
+    - **Why:** Reveals pain points and areas for improvement by observing users navigate common tasks while verbalizing their thought process
 
-- **Suggested tools:** Screen recording software, online prototyping tools.
+    - **Suggested tools:** Screen recording software, online prototyping tools.
 
 3. **Card Sorting:** This technique can be used to assess the organization and labelling of existing knative eventing resources. Participants will sort cards representing documentation topics or features based on their own understanding, revealing any inconsistencies or lack of clarity.
 
--  **Why:** Helps understand how users categorize information within knative eventing documentation, revealing potential improvements in organization and structure.
+   -  **Why:** Helps understand how users categorize information within knative eventing documentation, revealing potential improvements in organization and structure.
 
-- **Suggested tools:** Online card sorting tools like OptimalSort & Maze
+   - **Suggested tools:** Online card sorting tools like OptimalSort & Maze
 
 4. **Usability Testing:** We can observe participants as they attempt to complete specific tasks using the knative eventing platform or documentation. Observing their behavior and identifying points of frustration can highlight areas for improvement in the user experience.
 
-- **Why:** Provides direct observation of user interaction with knative eventing documentation and tutorials, uncovering confusing elements or missing information.
+   - **Why:** Provides direct observation of user interaction with knative eventing documentation and tutorials, uncovering confusing elements or missing information.
 
-- **Suggested tools**: Usability testing platforms like UserTesting.com, Lookback.io
+   - **Suggested tools**: Usability testing platforms like UserTesting.com, Lookback.io
 
 5. **Social media listening:** We can monitor online communities and social media platforms for discussions related to knative eventing onboarding. This can provide valuable insights into user experiences and sentiment, even if users haven’t directly participated in the research project.
 
--  **Why:** Provides insights into user sentiment and common pain points associated with knative eventing onboarding by analyzing online discussions and comments.
+   -  **Why:** Provides insights into user sentiment and common pain points associated with knative eventing onboarding by analyzing online discussions and comments.
 
-- **Suggested tools:** social listening platforms like sprout social
+   - **Suggested tools:** social listening platforms like sprout social
 
 * **Quantitative methods:**
 
 1. **Surveys:** Online surveys can be distributed to a wider audience to gather broader quantitative data on user experiences. This can provide insights into user demographics, prior knowledge levels, and the prevalence of specific challenges during onboarding. 
 
-- **Why:** Allows gathering broader user feedback from larger audience, providing quantitative data to supplement qualitative interview insights.
+    - **Why:** Allows gathering broader user feedback from larger audience, providing quantitative data to supplement qualitative interview insights.
 
-- **Suggested tools:** Survey platforms like SurveryMonkey, Google Forms
+    - **Suggested tools:** Survey platforms like SurveryMonkey, Google Forms
 
 2. **Clickstream Analysis:** if applicable, analyzing clickstream data can reveal user navigation patterns within the knative eventing documentation or platform. This can identify areas where users frequently get stuck or encounter confusion, requiring potential revisions to the user interface or content flow.
 
-- **Why:** This data reveals user journey, identifies areas of confusion or difficulty, and help you optimize the overall user experience.
+    - **Why:** This data reveals user journey, identifies areas of confusion or difficulty, and help you optimize the overall user experience.
 
-- **Suggested tools:** Apache Clickhouse, Piwik Pro.
+    - **Suggested tools:** Apache Clickhouse, Piwik Pro.
 
 3. **A/B Testing:** This technique could be used to test the effectiveness of different onboarding approaches. By presenting different versions of instructions or documentation layouts to separate user groups, we can measure which method results in higher comprehension and task completion rates.
 
--  **Why:** Continuously improve user experience by iteratively testing and improving elements based on A/B testing results, we can continually enhance the user experience.
+   -  **Why:** Continuously improve user experience by iteratively testing and improving elements based on A/B testing results, we can continually enhance the user experience.
 
-- **Suggested tools:** Google Optimize, Optimizely.
+   - **Suggested tools:** Google Optimize, Optimizely.
 
 * **Additional considerations:**
 
 1. **Data Analysis:** We will employ appropriate qualitative and quantitative data analysis techniques to extract meaningful insights from the research data. This may involve thematic analysis for interviews transcripts,  statistical analysis for survey data, and user journey mapping for combined findings.
 
-- **Why:** Data analysis involves collecting, cleaning, transforming, and interpreting data to extract meaningful insights. This data can come from various sources, including clickstream analysis, A/B testing results, user surveys, and social media analytics.
+   - **Why:** Data analysis involves collecting, cleaning, transforming, and interpreting data to extract meaningful insights. This data can come from various sources, including clickstream analysis, A/B testing results, user surveys, and social media analytics.
 
-- **Suggested tools:** Spreadsheets like Microsoft Excel and Google Sheets, data visualization tools like Tableau and Power BI, Programming languages like R and Python with data analysis libraries like pandas, NumPy in Python.
+   - **Suggested tools:** Spreadsheets like Microsoft Excel and Google Sheets, data visualization tools like Tableau and Power BI, Programming languages like R and Python with data analysis libraries like pandas, NumPy in Python.
 
 2. **Pilot Testing:** Before conducting full-scale research activities, it’s valuable to pilot test interview questions or survey instruments with a small group of participants. This allows us to refine the research tools for optimal clarity and effectiveness.
 
--  **Why:** Pilot testing involves conducting a small-scale version of a larger project to identify potential issues, refine approaches, and gather initial feedback before full implementations.
+   -  **Why:** Pilot testing involves conducting a small-scale version of a larger project to identify potential issues, refine approaches, and gather initial feedback before full implementations.
 
-- **Suggested tools:** collaboration tools like figma and invision for sharing and testing UI prototypes, Email marketing platforms like mailchimp and constant contacts for pilot testing marketing campaigns.
+   - **Suggested tools:** collaboration tools like figma and invision for sharing and testing UI prototypes, Email marketing platforms like mailchimp and constant contacts for pilot testing marketing campaigns.
 
 3. **Comparative research**: By analyzing how alternative solutions approach onboarding, we can identify best practices and potential areas for differentiation in knative eventing’s onboarding journey. We will compare knative eventing with the other event driven solutions like cncf landscape alternatives e.g. apache kafka & pulsar, cloud specific eventing services, standalone message brokers and serverless workflow frameworks.
 
-- **Why:** comparative approach helps us identify best practices & improvement opportunities in knative eventing onboarding.
+   - **Why:** comparative approach helps us identify best practices & improvement opportunities in knative eventing onboarding.
 
-- **Suggested tools and methodology**: comparative analysis matrix & heuristic evaluation, develop a matrix that compares knative eventing with alternative solutions across key dimensions relevant to onboarding, such as:
+   - **Suggested tools and methodology**: comparative analysis matrix & heuristic evaluation, develop a matrix that compares knative eventing with alternative solutions across key dimensions relevant to onboarding, such as:
 
-* Documentation clarity & comprehensiveness.
+        * Documentation clarity & comprehensiveness.
 
-* Availability of tutorials and guides
+        * Availability of tutorials and guides
 
-* Community support & resources
+        * Community support & resources
 
-* Ease of setup and configuration
+        * Ease of setup and configuration
 
 By utilizing a combination of these research methods, we can gain a comprehensive understanding of the knative eventing onboarding experience from the user’s perspective. This will allow us to develop actionable recommendations that address key pain points and ultimately enhance user experience and user engagement with the platform.
 
@@ -147,19 +151,19 @@ These combined analyses will inform the development of well-founded recommendati
 
 1.  Collaborative selection of research methods
 
-- The proposed list of research methods serves as a starting point, and final selection will be made in collaboration with mentors during the initial mentorship phase. This collaborative approach ensures that the overall research structure is optimized to effectively meet the project’s objectives.
+   - The proposed list of research methods serves as a starting point, and final selection will be made in collaboration with mentors during the initial mentorship phase. This collaborative approach ensures that the overall research structure is optimized to effectively meet the project’s objectives.
 
 2. Additional tools to enhance research
 
-- Beyond the core research methods, we may utilize various tools to support the research process:
+    - Beyond the core research methods, we may utilize various tools to support the research process:
 
-- Digital whiteboard platforms like Figma or micro can facilitate brainstorming sessions
+    - Digital whiteboard platforms like Figma or micro can facilitate brainstorming sessions
 
-- Research repository management, we can leverage tools like notion or google docs to manage and organize the research repository, ensuring all collected data, notes and findings are well documented and easily accessible
+    - Research repository management, we can leverage tools like notion or google docs to manage and organize the research repository, ensuring all collected data, notes and findings are well documented and easily accessible
 
-- Prototyping and design, if necessary, figma can be used for prototyping and designing potential improvements to the onboarding experience based on research findings.
+    - Prototyping and design, if necessary, figma can be used for prototyping and designing potential improvements to the onboarding experience based on research findings.
 
-- Data management & analysis: google sheets is a strong candidate for data storage due to its compatibility with python libraries for data analysis on CSV files. It also allows for easy collaboration and offers basic data analysis capabilities itself.
+    - Data management & analysis: google sheets is a strong candidate for data storage due to its compatibility with python libraries for data analysis on CSV files. It also allows for easy collaboration and offers basic data analysis capabilities itself.
 
 By employing an iterative approach and working collaboratively with mentors to refine the research methods, we ensure the project remains focused and delivers valuable insights to improve knative eventing onboarding experience. The selected tools will further enhance the research process by facilitating brainstorming, managing information and potentially prototyping solutions based on our findings.
 
@@ -173,63 +177,63 @@ By employing an iterative approach and working collaboratively with mentors to r
 
 1. **User Experience (UX) Improvement:**
 
-- **Reduction in time to complete onboarding**: track the average time it takes for new users to complete the onboarding process (e.g. through tasks & surveys) and measure improvement after implementing recommendations.
+   - **Reduction in time to complete onboarding**: track the average time it takes for new users to complete the onboarding process (e.g. through tasks & surveys) and measure improvement after implementing recommendations.
 
-- **Increased user confidence**: conduct surveys and user interviews before and after implementing changes to measure user confidence in using knative eventing after completing onboarding.
+   - **Increased user confidence**: conduct surveys and user interviews before and after implementing changes to measure user confidence in using knative eventing after completing onboarding.
 
-- **Improved user satisfaction**: utilize surveys and user interviews to gauge user satisfaction with the onboarding process after implementing changes.
+   - **Improved user satisfaction**: utilize surveys and user interviews to gauge user satisfaction with the onboarding process after implementing changes.
 
 2. **Engagement & Retention:**
 
-- **Increased Active Users:** track the number of active knative eventing users e.g. through logins or project creations and measure growth after implementing recommendations.
+   - **Increased Active Users:** track the number of active knative eventing users e.g. through logins or project creations and measure growth after implementing recommendations.
 
-- Reduced user drop-off rate: identify points in the onboarding process where users abandon & measure the decrease in drop-off rate after implementing recommendations.
+   - Reduced user drop-off rate: identify points in the onboarding process where users abandon & measure the decrease in drop-off rate after implementing recommendations.
 
-- Increased community participation: Monitor participation in knative eventing forums. Discussions and meetups to see if there’s a rise in user engagement after onboarding improvements.
+   - Increased community participation: Monitor participation in knative eventing forums. Discussions and meetups to see if there’s a rise in user engagement after onboarding improvements.
 
 3. **Knowledge and skill development:**
 
-- **Improved user knowledge assessment:** developing a pre & post onboarding knowledge assessment to measure the increase in user knowledge about knative eventing concepts after completing the onboarding process.
+   - **Improved user knowledge assessment:** developing a pre & post onboarding knowledge assessment to measure the increase in user knowledge about knative eventing concepts after completing the onboarding process.
 
-- **Increased completion of tutorials & documentation:** tracking the number of users who complete existing tutorials & documentation sections related to onboarding & measure growth after implementing changes**.**
+   - **Increased completion of tutorials & documentation:** tracking the number of users who complete existing tutorials & documentation sections related to onboarding & measure growth after implementing changes**.**
 
-- **Reduced need for support:** monitoring the number of support tickets and forum posts related to onboarding issues and measures the decrease after implementing recommendations.
+   - **Reduced need for support:** monitoring the number of support tickets and forum posts related to onboarding issues and measures the decrease after implementing recommendations.
 
 4. **Additional consideration:**
 
 - **User-centric KPIs:**
 
-* Depth of user insights
+   * Depth of user insights
 
-* Improved user sentiment
+   * Improved user sentiment
 
-* Increased user engagement
+   * Increased user engagement
 
 - **Onboarding process effectiveness KPIs:**
 
-* Completion rate of onboarding tutorials
+   * Completion rate of onboarding tutorials
 
-* Reduced time to complete onboarding
+   * Reduced time to complete onboarding
 
-* Number of support tickets
+   * Number of support tickets
 
-* Participant outreach
+   * Participant outreach
 
 - **Overall project success KPIs:**
 
-* Number of participants
+   * Number of participants
 
-* Actionable recommendations
+   * Actionable recommendations
 
-* Project timeline
+   * Project timeline
 
 - **Knowledge dissemination and impact**
 
-* Report quality
+   * Report quality
 
-* Community engagement
+   * Community engagement
 
-* Implementation rate
+   * Implementation rate
 
 By incorporating these KPIs we can demonstrate the project’s potential impact on our user experience, user engagement, and skill development.
 
