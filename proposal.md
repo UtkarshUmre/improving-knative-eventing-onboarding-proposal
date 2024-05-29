@@ -185,8 +185,6 @@ By employing an iterative approach and working collaboratively with mentors to r
 
 2. **Engagement & Retention:**
 
-   - **Increased Active Users:** track the number of active knative eventing users e.g. through logins or project creations and measure growth after implementing recommendations.
-
    - Reduced user drop-off rate: identify points in the onboarding process where users abandon & measure the decrease in drop-off rate after implementing recommendations.
 
    - Increased community participation: Monitor participation in knative eventing forums. Discussions and meetups to see if there’s a rise in user engagement after onboarding improvements.
@@ -313,7 +311,7 @@ My primary drive is to work hand-in-hand with the community, addressing user nee
 
 In summary, this research proposal outlines a comprehensive plan to enhance the Knative Eventing onboarding experience. It will address current challenges, delve into developer and organizational motivations, and identify factors contributing to attrition. The approach, encompassing interviews, discussions, surveys, data collection, analysis, and a comparative study, is designed to provide actionable insights.
 
-My commitment extends beyond ethical research practices, transparency, and fostering active community engagement. Through an iterative approach, I aim to deliver a final report with concrete recommendations based on user research. This report will highlight areas for improvement in the current contributor journey within Knative, ultimately promoting a collaborative environment that facilitates seamless onboarding and fosters sustained contributions!
+My commitment extends beyond ethical research practices, transparency, and fostering active community engagement. Through an iterative approach, I aim to deliver a final report with concrete recommendations based on user research. This report will highlight areas for improvement in the current onboarding journey within Knative eventing, ultimately promoting a collaborative environment that facilitates seamless onboarding and fosters sustained contributions!
 
 ### Looking Ahead: A Continued Journey With Knative
 
